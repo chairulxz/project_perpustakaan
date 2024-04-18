@@ -1,1 +1,0 @@
-document.title = "nama saya chairul ini adalah kode javascript"
